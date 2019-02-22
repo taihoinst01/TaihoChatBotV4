@@ -1,0 +1,36 @@
+02-22-2019 10:51:15.653: db connect !! 
+02-22-2019 10:51:15.715: activity.CreateReply() !! 
+02-22-2019 10:51:16.176: SetActivity!! 
+02-22-2019 10:51:16.382: 'C:\Users\sokan\source\repos\TaihoChatBotV4\LOG\2019-02-22.LOG' 파일은 다른 프로세스에서 사용 중이므로 프로세스에서 액세스할 수 없습니다.
+02-22-2019 10:51:16.390: activity.CreateReply() !! 
+02-22-2019 10:51:16.393: SetActivity!! 
+02-22-2019 10:51:17.929: userData insert end 
+02-22-2019 10:51:18.662: userData insert end 
+02-22-2019 10:51:18.670: db SelectConfig start !! 
+02-22-2019 10:51:18.678: db conn SelectConfig !!
+02-22-2019 10:51:18.869: * cnfNm : 루이스제한 || cnfValue : 3000
+02-22-2019 10:51:18.891: * cnfNm : 루이스구독 || cnfValue : 5193a586b5e446629ff5d82475d5d413
+02-22-2019 10:51:18.900: * cnfNm : 루이스스코어 || cnfValue : 0.7
+02-22-2019 10:51:18.906: * cnfNm : cjEmployeeCB1 || cnfValue : 14e6a9f8-058d-449a-9f30-464ad5c9708d
+02-22-2019 10:51:18.911: * cnfNm : cjEmployeeCB2 || cnfValue : 0a2aa7ba-5375-4524-8ff1-3e1b36a2d45c
+02-22-2019 10:51:18.917: * cnfNm : cjEmployeeCB3 || cnfValue : 2cff4117-fc31-4f0f-a66c-5cdd3c9516a0
+02-22-2019 10:51:18.921: * cnfNm : cjEmployeeCB4 || cnfValue : 0957a8bc-1eee-4700-b6a4-f2bd826160f5
+02-22-2019 10:51:18.925: * cnfNm : cjEmployeeCB5 || cnfValue : 97078397-4eb4-4e34-93b0-0d181b2c7cad
+02-22-2019 10:51:18.929: * cnfNm : API || cnfValue : 
+02-22-2019 10:51:18.931: db SelectConfig end!! 
+02-22-2019 10:51:18.935: *conf type : API* conf value : 
+02-22-2019 10:51:18.940: * DB conn : conversationUpdate
+02-22-2019 10:51:19.143:  db SelectInitDialog !! 
+02-22-2019 10:51:19.965: FB CARD IMG https://cjemployeechatbot-web.azurewebsites.net/assets/image/chatbotStyle/cj_img_190131.png
+02-22-2019 10:51:21.886: FB CARD IMG 
+02-22-2019 10:51:21.913: FB CARD IMG 
+02-22-2019 10:51:21.917: FB CARD IMG 
+02-22-2019 10:51:21.919: FB CARD IMG 
+02-22-2019 10:51:21.920: FB CARD IMG 
+02-22-2019 10:51:21.924: FB CARD IMG 
+02-22-2019 10:51:21.927: FB CARD IMG 
+02-22-2019 10:51:21.969: FB CARD IMG 
+02-22-2019 10:51:21.971: FB CARD IMG 
+02-22-2019 10:51:21.990: * activity.Type : 
+02-22-2019 10:51:21.994: * activity.Recipient.Id : c6ahkfc1h398
+02-22-2019 10:51:21.996: * activity.ServiceUrl : http://localhost:63146
