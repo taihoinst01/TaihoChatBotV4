@@ -1139,10 +1139,8 @@ namespace TaihoChatBotV4
             {
                 string url = string.Format("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/{0}?subscription-key={1}&timezoneOffset=0&verbose=true&q={2}", textList[k][1], textList[k][2], query);
 
-
                 Debug.WriteLine("-----LUIS URL 보기");
                 Debug.WriteLine("-----LUIS URL : " + url);
-
 
                 using (HttpClient client = new HttpClient())
                 {
