@@ -1137,7 +1137,7 @@ namespace TaihoChatBotV4
 
             for (int k = 0; k < textList.Count; k++)
             {
-                string url = string.Format("https://eastasia.api.cognitive.microsoft.com/luis/v2.0/apps/{0}?subscription-key={1}&timezoneOffset=0&verbose=true&q={2}", textList[k][1], textList[k][2], query);
+                string url = string.Format("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/{0}?subscription-key={1}&timezoneOffset=0&verbose=true&q={2}", textList[k][1], textList[k][2], query);
 
 
                 Debug.WriteLine("-----LUIS URL 보기");
