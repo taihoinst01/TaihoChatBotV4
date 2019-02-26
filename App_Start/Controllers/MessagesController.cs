@@ -1143,6 +1143,7 @@ namespace TaihoChatBotV4
                 Debug.WriteLine("-----LUIS URL 보기");
                 Debug.WriteLine("-----LUIS URL : " + url);
 
+
                 using (HttpClient client = new HttpClient())
                 {
                     //취소 시간 설정
